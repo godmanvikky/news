@@ -1,7 +1,7 @@
 {
   "name": "news_redux",
   "version": "0.1.0",
-  "homepage": "http://godmanvikky.github.io/news_redux",
+  "homepage": "http://godmanvikky.github.io/news",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.10.2",
